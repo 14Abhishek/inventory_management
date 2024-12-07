@@ -1,4 +1,4 @@
-# Build a Fullstack Inventory Management Dashboard
+# Fullstack Inventory Management Dashboard
 
 
 
@@ -10,9 +10,3 @@
 - **Redux Toolkit Query**
 - **Material UI Data Grid**
 - **Node.js**
-- **Prisma**
-- **AWS EC2**
-- **AWS RDS**
-- **AWS API Gateway**
-- **AWS Amplify**
-- **AWS S3**
